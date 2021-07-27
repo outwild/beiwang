@@ -1,2 +1,2 @@
-# howtos
-manuals, standard procedures, etc.
+
+## 我的日常记录和备忘
